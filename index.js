@@ -34,7 +34,20 @@ $(function() {
 		"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1563646553423&di=247c730a4b194509da5751ba5b1ed053&imgtype=0&src=http%3A%2F%2Fimg.mp.itc.cn%2Fupload%2F20160330%2F8926cf2c90694dcb81b3a2d88e0cecab.jpg",
 		"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1563646553422&di=8ae02b2b5b3971e84c47a9d3a303afda&imgtype=0&src=http%3A%2F%2Ff.hiphotos.baidu.com%2Fbaike%2Fc0%253Dbaike180%252C5%252C5%252C180%252C60%2Fsign%3D84912770213fb80e18dc698557b8444b%2F48540923dd54564e1720cf78b3de9c82d1584f2d.jpg",
 		"https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=4256503242,2511557739&fm=26&gp=0.jpg",
-		"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1563646553422&di=d9b263f1833853b8daaa05ce02929536&imgtype=0&src=http%3A%2F%2Fimg1.cache.netease.com%2Fcatchpic%2FF%2FFB%2FFB20C551586A55B03BDBFA7BE815BD08.jpg"
+		"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1563646553422&di=d9b263f1833853b8daaa05ce02929536&imgtype=0&src=http%3A%2F%2Fimg1.cache.netease.com%2Fcatchpic%2FF%2FFB%2FFB20C551586A55B03BDBFA7BE815BD08.jpg",
+		'http://p0.qhimg.com/t01af8c88d60ce7de20.jpg?size=800x1200',
+		'http://p7.qhimg.com/t0143190465a6461d21.jpg?size=800x1200',
+		'http://p9.qhimg.com/t011130f69b5aa8e943.jpg?size=800x1200',
+		'http://p9.qhimg.com/t01e16b88a1ce13f0df.jpg?size=800x1200',
+		'http://p9.qhimg.com/t017b2bfe660f0819df.jpg?size=800x533',
+		'http://p2.qhimg.com/t01c1c2daa36bd57ed8.jpg?size=800x533',
+		'http://p6.qhimg.com/t012fa22f243c8d1594.jpg?size=800x1200',
+		'http://p6.qhimg.com/t01eb6871d3583f1deb.jpg?size=800x533',
+		'http://p0.qhimg.com/t0148266ed72dcb24d9.jpg?size=800x1200',
+		'http://p9.qhimg.com/t01512c6026f54a5a74.jpg?size=800x533',
+		'http://p5.qhimg.com/t01027b964635dbe128.jpg?size=800x1200',
+		'http://p7.qhimg.com/t01c5e3761eac3ccdd7.jpg?size=800x533'
+		
 	];
 	pic(dqwj);
 	var mcy = [
@@ -48,7 +61,16 @@ $(function() {
 		"http://ww1.sinaimg.cn/large/005XmN4Xly1fnckjavxogj30xc0m8aeh.jpg",
 		"http://img1.imgtn.bdimg.com/it/u=2880655291,1231704378&fm=26&gp=0.jpg",
 		"http://www.zhiyinlady.com/d/file/20170513/059d5899757362043bc80fc5fd7ab192.jpg",
-		'http://imgsrc.baidu.com/forum/pic/item/37a7154c510fd9f904ecf1b9252dd42a2a34a4c3.jpg'
+		'http://imgsrc.baidu.com/forum/pic/item/37a7154c510fd9f904ecf1b9252dd42a2a34a4c3.jpg',
+		'http://p0.qhimg.com/t0156b94c2480edec99.jpg?size=800x1200',
+		'http://p4.qhimg.com/t0181e0f73b0358d7e1.jpg?size=800x1200',
+		'http://p8.qhimg.com/t01bdafba88824807d8.jpg?size=800x1200',
+		'http://p1.qhimg.com/t014252d638908de9cf.jpg?size=800x533',
+		'http://p7.qhimg.com/t010de42d50acac0509.jpg?size=800x1067',
+		'http://p3.qhimg.com/t01ce8188c0a7e7ab75.jpg?size=800x1200',
+		'http://p5.qhimg.com/t01b92dbc0a35ca230f.jpg?size=800x1200',
+		'http://p8.qhimg.com/t01740937a6cafabda0.jpg?size=800x533',
+		'http://p9.qhimg.com/t01e27491ab312ce6eb.jpg?size=800x1200'
 	];
 	pic(mcy);
 	var qtxz = [
